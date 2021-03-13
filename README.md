@@ -6,7 +6,7 @@
 - Win 10 x86
 - Visual Studio 2019 v16.8.3 Communit.
 
-#### Efetuei alguns ajustes para exercício:
+#### Efetuei alguns ajustes como exercício para evolução do aprendizado:
 
 ##### 1. Criei a classe Movimentos.cs com os métodos Diagonais e Horizontais, para reaproveitamento de código e otimização das coordenadas em array;
 	- A classe Torre.cs acessa o método Horizontais;
