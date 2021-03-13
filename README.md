@@ -9,10 +9,10 @@
 #### Efetuei alguns ajustes como exercício para evolução do aprendizado:
 
 ##### 1. Criei a classe Movimentos.cs com os métodos Diagonais e Horizontais, para reaproveitamento de código e otimização das coordenadas em array;
-	- A classe Torre.cs acessa o método Horizontais;
-	- A classe Bispo.cs acessa o método Diagonais;
-	- A classe Dama acessa os métodos Horizontais e Diagonais;
-	- O método PodeMover foi removido das classes acima, foi concentrado na classe Movimentos.cs.
+	* A classe Torre.cs acessa o método Horizontais;
+	* A classe Bispo.cs acessa o método Diagonais;
+	* A classe Dama acessa os métodos Horizontais e Diagonais;
+	* O método PodeMover foi removido das classes acima, foi concentrado na classe Movimentos.cs.
 
 ##### 2. Otimização da classe Peao.cs com array de coordenadas para peças brancas e pretas e reproveitamento de código;
 
